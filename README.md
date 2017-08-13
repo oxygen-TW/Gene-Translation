@@ -3,8 +3,10 @@
 
 <br>
 
-## 執行 Gene-run.exe -h 來了解更多
+## 執行 win_install.exe 來安裝本程式(適用 Windows 7 或更新版本)
+### 執行 Gene-run.exe -h 來了解更多
 
+<br>
 
 ### Gene-run.exe [-mode] [-filename]
 #### 模式:
@@ -14,6 +16,7 @@
 
 <br>
 
+#### 可參考 Sample 裡的範例
 #### 目前僅有繁體中文版
 
 <br>
@@ -26,8 +29,10 @@
 
 <br>
 
-## Run Gene-run.exe -h for help
+## Run win_install.exe to install this software(For Windows 7 or new)
+### Run Gene-run.exe -h for help
 
+<br>
 
 ### Gene-run.exe [-mode] [-filename]
 #### mode:
@@ -36,4 +41,6 @@
 #### -ma Translate after Transcript
 
 <br>
-#### Chinese version only now.
+
+#### You can reference sthe samples in Sample folder.
+#### I am sorry. We only have Chinese version now.
