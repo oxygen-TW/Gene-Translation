@@ -1,6 +1,7 @@
 # Gene-Translation
 ### 執行前請確保電腦有安裝 Python
 
+#### Python 下載：https://www.python.org/downloads/
 <br>
 
 ## 執行 win_install.exe 來安裝本程式(適用 Windows 7 或更新版本)
